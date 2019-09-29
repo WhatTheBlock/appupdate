@@ -1,1 +1,4 @@
-[{"outputType":{"type":"APK"},"apkData":{"type":"MAIN","splits":[],"versionCode":118,"versionName":"0.6.2.b118-release","enabled":true,"outputFile":"LTCAssistant_v0.6.2.b118-release.apk","fullName":"release","baseName":"release"},"path":"LTCAssistant_v0.6.2.b118-release.apk","properties":{}}]
+{
+  "version": 119,
+  "apk": "LTCAssistant_v0.7.0.b119-release.apk"
+}
