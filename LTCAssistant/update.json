@@ -1,5 +1,5 @@
 {
-  "version": 120,
-  "apk": "LTCAssistant_v0.7.0.b120-release.apk",
-  "changelog": "首次更新測試"
+  "version": 121,
+  "apk": "LTCAssistant_v0.7.1.b121-release.apk",
+  "changelog": "v0.7.1.b121：\n1. 重構網路請求方式"
 }
