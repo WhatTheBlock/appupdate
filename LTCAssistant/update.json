@@ -1,5 +1,5 @@
 {
-  "version": 126,
-  "apk": "LTCAssistant_v0.8.1.b126-release.apk",
-  "changelog": "v0.8.1.b126：\n1. 取得新聞失敗將於30秒後自動重試\n2. 顯示取得新聞失敗提示"
+  "version": 127,
+  "apk": "LTCAssistant_v0.8.2.b127-release.apk",
+  "changelog": "v0.8.2.b127：\n1. 據點查詢頁面標題將顯示選擇的縣市\n2. 疫苗接種頁面標題將顯示選擇的縣市\n3. 大幅優化據點與疫苗接種功能程式架構"
 }
