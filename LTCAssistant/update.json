@@ -1,5 +1,5 @@
 {
-  "version": 125,
-  "apk": "LTCAssistant_v0.8.1.b125-release.apk",
-  "changelog": "v0.8.1.b125：\n1. 若取得新聞失敗，點擊新聞標題區可自動重試\n2. 調整網路請求寫法\n3. 鎖定所有畫面為豎屏模式"
+  "version": 126,
+  "apk": "LTCAssistant_v0.8.1.b126-release.apk",
+  "changelog": "v0.8.1.b126：\n1. 取得新聞失敗將於30秒後自動重試\n2. 顯示取得新聞失敗提示"
 }
