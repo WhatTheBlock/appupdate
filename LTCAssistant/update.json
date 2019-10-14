@@ -1,5 +1,5 @@
 {
-  "version": 128,
-  "apk": "LTCAssistant_v0.9.0.b128-release.apk",
-  "changelog": "v0.9.0.b128：\n1. 全新的啟動畫面\n2. 加入首次啟動引導畫面\n3. 全局黑色字體\n4. 優化疫苗接種詳細資料頁面"
+  "version": 129,
+  "apk": "LTCAssistant_v0.9.1.b129-release.apk",
+  "changelog": "v0.9.1.b129：\n1. 修改FAB點擊顏色為白色\n2. 完成健康記錄表功能\n3. 微調開啟動畫時長"
 }
