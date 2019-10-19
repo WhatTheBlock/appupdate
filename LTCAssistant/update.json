@@ -1,5 +1,5 @@
 {
-  "version": 133,
-  "apk": "LTCAssistant_v0.9.2.b133-release.apk",
-  "changelog": "v0.9.2.b133：\n1. 新增一項請求權限\n2. 修復Android 5.1以下一項錯誤"
+  "version": 135,
+  "apk": "LTCAssistant_v0.9.2.b135-release.apk",
+  "changelog": "v0.9.2.b135：\n1. 調整權限請求說明\n2. 完善權限請求機制\n3. 小幅優化APP大小"
 }
