@@ -1,5 +1,5 @@
 {
-  "version": 137,
-  "apk": "LTCAssistant_v0.9.2.b137-release.apk",
-  "changelog": "v0.9.2.b137：\n1. 修正Android 8.0以上一項錯誤"
+  "version": 141,
+  "apk": "LTCAssistant_v0.9.3.b141-release.apk",
+  "changelog": "v0.9.3.b141：\n1. 大幅精簡權限請求程式碼\n2. 解決APP載入時畫面空白的問題\n3. 解決APP關閉後畫面閃白的問題\n4. 調整APP開啟時的動畫\n5. 加入FC事件攔截功能"
 }
