@@ -1,5 +1,5 @@
 {
-  "version": 131,
-  "apk": "LTCAssistant_v0.9.2.b131-release.apk",
-  "changelog": "v0.9.2.b131：\n1. 使用KTX簡化程式碼\n2. 新增一項請求權限\n3. 全新的Toast顯示套件"
+  "version": 133,
+  "apk": "LTCAssistant_v0.9.2.b133-release.apk",
+  "changelog": "v0.9.2.b133：\n1. 新增一項請求權限\n2. 修復Android 5.1以下一項錯誤"
 }
