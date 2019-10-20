@@ -1,5 +1,5 @@
 {
-  "version": 144,
-  "apk": "LTCAssistant_v0.9.3.b144-release.apk",
-  "changelog": "v0.9.3.b144：\n\n1. 重構WebView功能\n2. WebView加入讀取進度條\n3. 問題回報移至Toolbar\n4. 原問題回報改為老人福利"
+  "version": 146,
+  "apk": "LTCAssistant_v0.9.3.b146-release.apk",
+  "changelog": "v0.9.3.b146：\n\n1. 大幅精簡程式碼\n2. 修復據點、疫苗查詢的一項錯誤"
 }
