@@ -1,5 +1,5 @@
 {
   "version": 143,
   "apk": "LTCAssistant_v0.9.3.b143-release.apk",
-  "changelog": "v0.9.3.b143：\n\n1. 重構WebView功能\n2. 更新API網址\n3. 更新QA資料結構\n4. 簡化程式碼"
+  "changelog": "v0.9.3.b143：\n\n1. 重構WebView功能\n2. 更新API網址\n3. 更新QA資料結構\n4. 簡化程式碼\n5. 移除WebView頁面的Toolbar"
 }
