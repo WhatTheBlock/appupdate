@@ -1,5 +1,5 @@
 {
-  "version": 146,
-  "apk": "LTCAssistant_v0.9.3.b146-release.apk",
-  "changelog": "V0.9.3 (Build 146)：\n\n1. 大幅精簡程式碼\n2. 修復據點、疫苗查詢的一項錯誤"
+  "version": 148,
+  "apk": "LTCAssistant_v0.9.3.b148-release.apk",
+  "changelog": "V0.9.3 (Build 148)：\n\n1. 更新套件\n2. 修復QA相關問題Bug"
 }
