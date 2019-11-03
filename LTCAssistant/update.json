@@ -1,5 +1,5 @@
 {
-  "version": 219,
-  "apk": "LTCAssistant_v0.10.0.219-release.apk",
-  "changelog": "V0.10.0 (Build 219)：\n\n1. 問答功能不開放Android 5.0以下系統\n2. 更新套件\n3. 調整版本步進規則\n4. 重構問答系統\n5. 全新的Dialog套件\n6. 重構所有的Dialog\n7. 權限請求改為強制性\n8. 優化FC頁面\n9. 修復疫苗接種資訊一項嚴重錯誤\n10.移除問答頁面TTS按鈕\n11.長按對話內容可播放語音\n12.若開啟自動語音輸入將延遲1.5秒才開啟"
+  "version": 229,
+  "apk": "LTCAssistant_v0.10.0.229-release.apk",
+  "changelog": "V0.10.0 (Build 229)：\n\n1. 更新套件\n2. 暫時關閉R8 Full Mode\n3. 移除自動開啟語音輸入功能\n4. 問答頁面開啟後自動顯示說明\n5. 問答系統點選輸入問題可自動開啟鍵盤\n6. 調整語音語調預設值"
 }
