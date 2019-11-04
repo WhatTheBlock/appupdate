@@ -1,5 +1,5 @@
 {
-  "version": 229,
-  "apk": "LTCAssistant_v0.10.0.229-release.apk",
-  "changelog": "V0.10.0 (Build 229)：\n\n1. 更新套件\n2. 暫時關閉R8 Full Mode\n3. 移除自動開啟語音輸入功能\n4. 問答頁面開啟後自動顯示說明\n5. 問答系統點選輸入問題可自動開啟鍵盤\n6. 調整語音語調預設值"
+  "version": 260,
+  "apk": "LTCAssistant_v0.10.1.260-release.apk",
+  "changelog": "V0.10.1 (Build 260)：\n\n1. 修正問答頁面說明重複顯示\n2. 加入大量動畫\n3. 修改WebView圖標"
 }
