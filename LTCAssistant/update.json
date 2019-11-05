@@ -1,7 +1,7 @@
 {
-  "verCode": 295,
-  "verName": "APP版本：0.10.1 (Build 295)\n",
-  "apk": "LTCAssistant_v0.10.1.295-release.apk",
+  "verCode": 300,
+  "verName": "APP版本：0.10.2 (Build 300)\n",
+  "apk": "LTCAssistant_v0.10.2.300-release.apk",
   "size": "檔案大小：7.47MB\n",
-  "changelog": "更新內容：\n1. 修改更新提示內容\n2. 修改回報功能通知視窗\n3. 修改據點查詢通知視窗\n4. 簡化程式碼\n5. 改善執行效能"
+  "changelog": "更新內容：加入預讀機制大幅提升Open Data讀取速度"
 }
