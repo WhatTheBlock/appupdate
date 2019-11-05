@@ -1,5 +1,6 @@
 {
   "version": 260,
   "apk": "LTCAssistant_v0.10.1.260-release.apk",
+  "size": 7.46,
   "changelog": "V0.10.1 (Build 260)：\n\n1. 修正問答頁面說明重複顯示\n2. 加入大量動畫\n3. 修改WebView圖標"
 }
