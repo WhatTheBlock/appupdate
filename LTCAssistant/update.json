@@ -1,7 +1,7 @@
 {
-  "verCode": 300,
-  "verName": "APP版本：0.10.2 (Build 300)\n",
-  "apk": "LTCAssistant_v0.10.2.300-release.apk",
-  "size": "檔案大小：7.47MB\n",
-  "changelog": "更新內容：加入預讀機制大幅提升Open Data讀取速度"
+  "verCode": 318,
+  "verName": "APP版本：0.11.0 (Build 318)\n",
+  "apk": "LTCAssistant_v0.11.0.318-release.apk",
+  "size": "檔案大小：7.50MB\n",
+  "changelog": "更新內容：\n1. 取消預讀機制\n2. 重構Retrofit\n3. 使用Moshi反序列化Json\n4. 網路請求皆改為協程執行\n5. 大幅縮減網路請求程式碼\n6. 降低記憶體使用量"
 }
