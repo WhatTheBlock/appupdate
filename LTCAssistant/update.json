@@ -1,7 +1,7 @@
 {
-  "verCode": 318,
-  "verName": "APP版本：0.11.0 (Build 318)\n",
-  "apk": "LTCAssistant_v0.11.0.318-release.apk",
+  "verCode": 326,
+  "verName": "APP版本：0.11.0 (Build 326)\n",
+  "apk": "LTCAssistant_v0.11.0.326-release.apk",
   "size": "檔案大小：7.50MB\n",
-  "changelog": "更新內容：\n1. 取消預讀機制\n2. 重構Retrofit\n3. 使用Moshi反序列化Json\n4. 網路請求皆改為協程執行\n5. 大幅縮減網路請求程式碼\n6. 降低記憶體使用量"
+  "changelog": "更新內容：\n1. 更新Kotlin編譯器\n2. 修復Android 5.1啟動錯誤"
 }
