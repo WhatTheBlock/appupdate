@@ -1,7 +1,7 @@
 {
-  "verCode": 352,
-  "verName": "APP版本：0.11.1 (Build 352)\n",
-  "apk": "LTCAssistant_v0.11.1.352-release.apk",
+  "verCode": 358,
+  "verName": "APP版本：0.11.1 (Build 358)\n",
+  "apk": "LTCAssistant_v0.11.1.358-release.apk",
   "size": "檔案大小：7.49MB\n",
-  "changelog": "更新內容：\n1. 不再支援Android 5.0以下系統\n2. 刪除所有相容性程式碼\n3. 攔截當機功能部分程式使用Kotlin改寫\n4. 更改APP更新系統"
+  "changelog": "更新內容：\n1. 不再支援Android 5.0以下系統\n2. 刪除所有相容性程式碼\n3. 攔截當機功能部分程式使用Kotlin改寫\n4. 更改APP更新系統\n5. 調整據點資料讀取方式"
 }
