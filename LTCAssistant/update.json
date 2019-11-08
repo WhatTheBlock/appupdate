@@ -1,7 +1,7 @@
 {
-  "verCode": 326,
-  "verName": "APP版本：0.11.0 (Build 326)\n",
-  "apk": "LTCAssistant_v0.11.0.326-release.apk",
+  "verCode": 999,
+  "verName": "APP版本：0.11.1 (Build 326)\n",
+  "apk": "LTCAssistant_v0.11.1.326-release.apk",
   "size": "檔案大小：7.50MB\n",
-  "changelog": "更新內容：\n1. 更新Kotlin編譯器\n2. 修復Android 5.1啟動錯誤"
+  "changelog": "更新內容：\n1. 不再支援Android 5.0以下系統\n2. 刪除所有相容性程式碼\n3. 攔截當機功能部分程式使用Kotlin改寫"
 }
