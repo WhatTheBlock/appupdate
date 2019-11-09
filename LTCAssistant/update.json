@@ -1,7 +1,7 @@
 {
-  "verCode": 401,
-  "verName": "APP版本：0.12.0 (Build 401)\n",
-  "apk": "LTCAssistant_v0.12.0.401-release.apk",
+  "verCode": 402,
+  "verName": "APP版本：0.12.0 (Build 402)\n",
+  "apk": "LTCAssistant_v0.12.0.402-release.apk",
   "size": "檔案大小：7.50MB\n",
   "changelog": "更新內容：\n1. 修復切換據點資料嚴重錯誤\n2. 精簡程式碼\n3. 更新Server連結\n4. 合併重複的Data Class\n5. 開啟PopupWindow後列表可滑動但不可點擊\n6. 開啟PopupWindow後點擊視窗外將不會自動關閉\n7. 部分UI背景改為圓角設計\n8. 完成老人福利功能\n9. 修復每次選擇縣市或服務種類都會自動重置的錯誤"
 }
