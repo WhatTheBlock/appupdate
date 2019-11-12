@@ -1,7 +1,7 @@
 {
-  "verCode": 422,
-  "verName": "APP版本：0.13.0 (Build 422)\n",
-  "apk": "LTCAssistant_v0.13.0.422-release.apk",
+  "verCode": 425,
+  "verName": "APP版本：0.13.0 (Build 425)\n",
+  "apk": "LTCAssistant_v0.13.0.425-release.apk",
   "size": "檔案大小：7.50MB\n",
-  "changelog": "更新內容：\n1. 重構問答系統\n2. 暫時關閉問答自動播放語音功能\n3. 暫時關閉問答相關問題功能"
+  "changelog": "更新內容：\n1. 精簡程式碼\n2. 重新開放自動播放語音功能\n3. 重新開放問答相關問題功能\n4. 降低小幫手回答延遲"
 }
