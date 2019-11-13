@@ -1,7 +1,7 @@
 {
   "verCode": 425,
-  "verName": "APP版本：0.13.0 (Build 425)\n",
-  "apk": "LTCAssistant_v0.13.0.425-release.apk",
+  "verName": "APP版本：0.13.1 (Build 425)\n",
+  "apk": "LTCAssistant_v0.13.1.425-release.apk",
   "size": "檔案大小：7.50MB\n",
-  "changelog": "更新內容：\n1. 精簡程式碼\n2. 重新開放自動播放語音功能\n3. 重新開放問答相關問題功能\n4. 降低小幫手回答延遲"
+  "changelog": "更新內容：\n1. 健康記錄表新增上傳資料至伺服器功能\n2. 完成User ID功能\n3. 更新Server連結\n4. 修復健康記錄表列表異常\n5. 修復健康記錄表狀態顯示錯誤"
 }
