@@ -1,7 +1,7 @@
 {
-  "verCode": 431,
-  "verName": "APP版本：0.13.1 (Build 431)\n",
-  "apk": "LTCAssistant_v0.13.1.431-release.apk",
-  "size": "檔案大小：7.50MB\n",
-  "changelog": "更新內容：\n1. 健康記錄表新增上傳資料至伺服器功能\n2. 完成User ID功能\n3. 更新Server連結\n4. 修復健康記錄表列表異常\n5. 修復健康記錄表狀態顯示錯誤"
+  "verCode": 438,
+  "verName": "APP版本：0.13.2 (Build 438)\n",
+  "apk": "LTCAssistant_v0.13.2.438-release.apk",
+  "size": "檔案大小：7.51MB\n",
+  "changelog": "更新內容：若新建或編輯的健康記錄表為無異常狀態將灑下彩色碎紙"
 }
