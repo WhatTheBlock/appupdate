@@ -1,7 +1,7 @@
 {
-  "verCode": 438,
-  "verName": "APP版本：0.13.2 (Build 438)\n",
-  "apk": "LTCAssistant_v0.13.2.438-release.apk",
+  "verCode": 443,
+  "verName": "APP版本：0.13.2 (Build 443)\n",
+  "apk": "LTCAssistant_v0.13.2.443-release.apk",
   "size": "檔案大小：7.51MB\n",
-  "changelog": "更新內容：若新建或編輯的健康記錄表為無異常狀態將灑下彩色碎紙"
+  "changelog": "更新內容：完善健康記錄表輸入定位功能，輸入完收縮壓使用鍵盤按[下一個]可定位到舒張壓，再按[下一個]可定位到體重"
 }
