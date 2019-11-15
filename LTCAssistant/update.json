@@ -1,7 +1,7 @@
 {
-  "verCode": 999,
-  "verName": "APP版本：0.13.3 (Build 454)\n",
-  "apk": "LTCAssistant_v0.13.3.999-release.apk",
+  "verCode": 459,
+  "verName": "APP版本：0.13.3 (Build 459)\n",
+  "apk": "LTCAssistant_v0.13.3.459-release.apk",
   "size": "檔案大小：7.51MB\n",
-  "changelog": "更新內容：\n1. 預加載WebView大幅提升開啟速度\n2. 變更主畫面6大按鈕過渡動畫"
+  "changelog": "更新內容：修復更新系統嚴重錯誤"
 }
