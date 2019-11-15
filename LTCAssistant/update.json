@@ -1,7 +1,7 @@
 {
-  "verCode": 443,
-  "verName": "APP版本：0.13.2 (Build 443)\n",
-  "apk": "LTCAssistant_v0.13.2.443-release.apk",
+  "verCode": 454,
+  "verName": "APP版本：0.13.3 (Build 454)\n",
+  "apk": "LTCAssistant_v0.13.3.454-release.apk",
   "size": "檔案大小：7.51MB\n",
-  "changelog": "更新內容：完善健康記錄表輸入定位功能，輸入完收縮壓使用鍵盤按[下一個]可定位到舒張壓，再按[下一個]可定位到體重"
+  "changelog": "更新內容：\n1. 預加載WebView大幅提升開啟速度\n2. 變更主畫面6大按鈕過渡動畫"
 }
