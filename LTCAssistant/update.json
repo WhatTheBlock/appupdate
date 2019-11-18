@@ -1,7 +1,7 @@
 {
-  "verCode": 500,
-  "verName": "APP版本：0.14.1 (Build 500)\n",
-  "apk": "LTCAssistant_v0.14.1.500-release.apk",
+  "verCode": 503,
+  "verName": "APP版本：0.14.1 (Build 503)\n",
+  "apk": "LTCAssistant_v0.14.1.503-release.apk",
   "size": "檔案大小：7.57MB\n",
-  "changelog": "更新內容：\n1. 更新server連結\n2. 完成飲食記錄表編輯、刪除\n3. 修正編輯飲食記錄表後返回列表跳至健康記錄表的錯誤\n4. 修正登入按鈕文字更新錯誤\n5. 記錄表新增、修改、刪除皆可與server同步\n6. 更新套件"
+  "changelog": "更新內容：\n1. 延遲小幫手反問速度\n2. 修復問答系統嚴重錯誤\n3. 暫時將設定按鈕改為錯誤事件用於測試"
 }
