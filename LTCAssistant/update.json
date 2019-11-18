@@ -1,7 +1,7 @@
 {
-  "verCode": 459,
-  "verName": "APP版本：0.13.3 (Build 459)\n",
-  "apk": "LTCAssistant_v0.13.3.459-release.apk",
-  "size": "檔案大小：7.51MB\n",
-  "changelog": "更新內容：修復更新系統嚴重錯誤"
+  "verCode": 497,
+  "verName": "APP版本：0.14.0 (Build 497)\n",
+  "apk": "LTCAssistant_v0.14.0.497-release.apk",
+  "size": "檔案大小：7.56MB\n",
+  "changelog": "更新內容：\n1. 更新server連結\n2. 調整記錄表格式\n3. 更新新聞api\n4. 更新問答api\n5. 完成飲食記錄表新增\n6. 優化健康記錄表判斷異常方式\n7. 修正首次開啟APP判斷邏輯錯誤"
 }
