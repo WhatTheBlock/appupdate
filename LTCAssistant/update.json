@@ -1,7 +1,7 @@
 {
-  "verCode": 512,
-  "verName": "APP版本：0.14.2 (Build 512)\n",
-  "apk": "LTCAssistant_v0.14.2.512-release.apk",
-  "size": "檔案大小：7.60MB\n",
-  "changelog": "更新內容：\n1. 恢復設定按鈕功能\n2. 新增Yahoo登入方式\n3. 修復手機號碼登入介面異常\n4. 修復使用完登入系統後關閉APP異常出現登入畫面的錯誤\n5. 修復會員登出時畫面閃白屏的問題"
+  "verCode": 565,
+  "verName": "APP版本：0.15.0 (Build 565)\n",
+  "apk": "LTCAssistant_v0.15.0.565-release.apk",
+  "size": "檔案大小：7.61MB\n",
+  "changelog": "更新內容：\n1. 更新套件\n2. 重新設計設定頁面\n3. 更換語速、語調設定元件"
 }
