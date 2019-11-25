@@ -1,7 +1,7 @@
 {
-  "verCode": 565,
-  "verName": "APP版本：0.15.0 (Build 565)\n",
-  "apk": "LTCAssistant_v0.15.0.565-release.apk",
+  "verCode": 567,
+  "verName": "APP版本：0.15.0 (Build 567)\n",
+  "apk": "LTCAssistant_v0.15.0.567-release.apk",
   "size": "檔案大小：7.61MB\n",
-  "changelog": "更新內容：\n1. 更新套件\n2. 重新設計設定頁面\n3. 更換語速、語調設定元件"
+  "changelog": "更新內容：調整語速、語調設定元件外觀"
 }
