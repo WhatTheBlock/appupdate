@@ -1,7 +1,7 @@
 {
-  "verCode": 567,
-  "verName": "APP版本：0.15.0 (Build 567)\n",
-  "apk": "LTCAssistant_v0.15.0.567-release.apk",
+  "verCode": 574,
+  "verName": "APP版本：0.15.0 (Build 574)\n",
+  "apk": "LTCAssistant_v0.15.0.574-release.apk",
   "size": "檔案大小：7.61MB\n",
-  "changelog": "更新內容：調整語速、語調設定元件外觀"
+  "changelog": "更新內容：記錄表新增、修改頁面加入自動開啟鍵盤功能"
 }
