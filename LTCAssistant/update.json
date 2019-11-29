@@ -1,7 +1,7 @@
 {
-  "verCode": 630,
-  "verName": "APP版本：0.15.2 (Build 630)\n",
-  "apk": "LTCAssistant_v0.15.2.630-release.apk",
+  "verCode": 654,
+  "verName": "APP版本：0.15.3 (Build 654)\n",
+  "apk": "LTCAssistant_v0.15.3.654-release.apk",
   "size": "檔案大小：7.62MB\n",
-  "changelog": "更新內容：\n1. 調整飲食記錄表圖片放大視窗\n2. 修復飲食記錄表編輯頁面圖片無法放大的問題\n3. 調整記錄表未選擇模式的文字顏色\n4. 改善記錄表日期選擇器開啟速度\n5. 記錄表的[昨天]按鈕不再只固定一天\n6. 改善記錄表頁面開啟速度"
+  "changelog": "更新內容：\n1. 調整記錄表頁面/子頁面開關方式\n2. 禁止開啟Proxy使用APP\n3. 防止被開啟偵錯模式\n4. 重構設定功能"
 }
