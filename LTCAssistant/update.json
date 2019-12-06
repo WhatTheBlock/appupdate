@@ -1,7 +1,7 @@
 {
-  "verCode": 730,
-  "verName": "APP版本：0.15.5 (Build 730)\n",
-  "apk": "LTCAssistant_v0.15.5.730-release.apk",
-  "size": "檔案大小：7.67MB\n",
-  "changelog": "更新內容：\n1. 更新套件\n2. 更新SDK\n3. 修正據點查詢資料篩選邏輯錯誤"
+  "verCode": 754,
+  "verName": "APP版本：0.15.5 (Build 754)\n",
+  "apk": "LTCAssistant_v0.15.5.754-release.apk",
+  "size": "檔案大小：7.66MB\n",
+  "changelog": "更新內容：\n1. 修改問答頁面發問視窗元件\n2. 修正問答系統重複發問錯誤\n3. 改善問答頁面開啟速度\n4. 移除相關問題頁面列表動畫\n5. 改善相關問題頁面開啟速度\n6. 移除Log.e()輸出"
 }
