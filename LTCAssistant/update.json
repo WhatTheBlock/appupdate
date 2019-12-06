@@ -1,7 +1,7 @@
 {
-  "verCode": 726,
-  "verName": "APP版本：0.15.4 (Build 726)\n",
-  "apk": "LTCAssistant_v0.15.4.726-release.apk",
-  "size": "檔案大小：7.61MB\n",
-  "changelog": "更新內容：\n1. 修正設定頁面相容性問題\n2. 修復主頁面啟動邏輯錯誤\n3. 新增健康記錄表範圍設定\n4. 重構健康記錄表新增/修改頁面\n5. 修復健康記錄表無法輸入小數點的問題\n6. 彩色碎紙動畫新增2種顏色\n7. 關閉Log輸出"
+  "verCode": 730,
+  "verName": "APP版本：0.15.5 (Build 730)\n",
+  "apk": "LTCAssistant_v0.15.5.730-release.apk",
+  "size": "檔案大小：7.67MB\n",
+  "changelog": "更新內容：\n1. 更新套件\n2. 更新SDK\n3. 修正據點查詢資料篩選邏輯錯誤"
 }
