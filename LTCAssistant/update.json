@@ -1,7 +1,7 @@
 {
-  "verCode": 776,
-  "verName": "APP版本：0.16.0 (Build 776)\n",
-  "apk": "LTCAssistant_v0.16.0.776-release.apk",
+  "verCode": 785,
+  "verName": "APP版本：0.16.1 (Build 785)\n",
+  "apk": "LTCAssistant_v0.16.1.785-release.apk",
   "size": "檔案大小：7.81MB\n",
-  "changelog": "更新內容：\n1. 更新Server連結\n2. 新增記錄表同步功能\n3. 重構登出程序\n4. 修復多項資料庫潛在錯誤\n5. 調整設定頁面讀取資料通知方式\n6. WebView頁面重新加入Toolbar\n7. 改善WebView頁面開啟速度\n8. 健康記錄表加入資料同步提示\n9. 調整飲食記錄表資料同步提示方式"
+  "changelog": "更新內容：\n1. 移除多餘的程式碼\n2. 登入後編輯記錄表將先檢測網路狀態\n3. 修復多項飲食記錄表嚴重錯誤\n4. 改善據點查詢頁面開啟速度\n5. 改善據點查詢條件篩選開啟速度"
 }
