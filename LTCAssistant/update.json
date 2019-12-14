@@ -1,7 +1,7 @@
 {
-  "verCode": 819,
-  "verName": "APP版本：0.17.1 (Build 819)\n",
-  "apk": "LTCAssistant_v0.17.1.819-release.apk",
+  "verCode": 820,
+  "verName": "APP版本：0.17.1 (Build 820)\n",
+  "apk": "LTCAssistant_v0.17.1.820-release.apk",
   "size": "檔案大小：7.76MB\n",
-  "changelog": "更新內容：\n1. 更新套件\n2. 重構更新系統，兼容Android 10\n3. 修復登出時刪除訊息重複跳出"
+  "changelog": "更新內容：更新Server連結"
 }
