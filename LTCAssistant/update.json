@@ -1,7 +1,7 @@
 {
-  "verCode": 838,
-  "verName": "APP版本：0.17.1 (Build 838)\n",
-  "apk": "LTCAssistant_v0.17.1.838-release.apk",
+  "verCode": 839,
+  "verName": "APP版本：0.17.1 (Build 839)\n",
+  "apk": "LTCAssistant_v0.17.1.839-release.apk",
   "size": "檔案大小：7.77MB\n",
-  "changelog": "更新內容：\n1. 修復WebView顯示發生錯誤訊息\n2. 修復多項記錄表功能錯誤\n3. 修復權限取得漏洞"
+  "changelog": "更新內容：修復登出訊息重複跳出"
 }
