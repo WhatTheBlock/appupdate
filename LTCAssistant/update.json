@@ -1,7 +1,7 @@
 {
-  "verCode": 830,
-  "verName": "APP版本：0.17.1 (Build 830)\n",
-  "apk": "LTCAssistant_v0.17.1.830-release.apk",
+  "verCode": 834,
+  "verName": "APP版本：0.17.1 (Build 834)\n",
+  "apk": "LTCAssistant_v0.17.1.834-release.apk",
   "size": "檔案大小：7.76MB\n",
-  "changelog": "更新內容：調整主頁面設計"
+  "changelog": "更新內容：修復WebView顯示發生錯誤訊息"
 }
