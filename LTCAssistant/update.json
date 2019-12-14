@@ -1,7 +1,7 @@
 {
-  "verCode": 820,
-  "verName": "APP版本：0.17.1 (Build 820)\n",
-  "apk": "LTCAssistant_v0.17.1.820-release.apk",
+  "verCode": 821,
+  "verName": "APP版本：0.17.1 (Build 821)\n",
+  "apk": "LTCAssistant_v0.17.1.821-release.apk",
   "size": "檔案大小：7.76MB\n",
-  "changelog": "更新內容：更新Server連結"
+  "changelog": "更新內容：\n1. 更新Server連結\n2. 鎖定當機攔截畫面轉向"
 }
