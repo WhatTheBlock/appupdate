@@ -1,7 +1,7 @@
 {
-  "verCode": 839,
-  "verName": "APP版本：0.17.1 (Build 839)\n",
-  "apk": "LTCAssistant_v0.17.1.839-release.apk",
+  "verCode": 840,
+  "verName": "APP版本：0.17.1 (Build 840)\n",
+  "apk": "LTCAssistant_v0.17.1.840-release.apk",
   "size": "檔案大小：7.77MB\n",
-  "changelog": "更新內容：修復登出訊息重複跳出"
+  "changelog": "更新內容：修改疫苗接種詳細資料頁面背景"
 }
