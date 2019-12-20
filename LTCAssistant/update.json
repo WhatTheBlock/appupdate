@@ -1,7 +1,7 @@
 {
-  "verCode": 841,
-  "verName": "APP版本：0.17.1 (Build 841)\n",
-  "apk": "LTCAssistant_v0.17.1.841-release.apk",
+  "verCode": 842,
+  "verName": "APP版本：0.18.0 (Build 842)\n",
+  "apk": "LTCAssistant_v0.18.0.842-release.apk",
   "size": "檔案大小：7.77MB\n",
-  "changelog": "更新內容：\n1. 修改疫苗接種詳細資料頁面背景\n2. 更新套件"
+  "changelog": "更新內容：\n1. 更新套件\n2. 確保取得所有權限才檢查更新\n3. 先檢查網路連線狀態才取得新聞標題\n4. 修改新聞標題取得失敗訊息\n5. 移除無用資源"
 }
