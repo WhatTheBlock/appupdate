@@ -1,7 +1,7 @@
 {
-  "verCode": 864,
-  "verName": "APP版本：0.19.0 (Build 864)\n",
-  "apk": "LTCAssistant_v0.19.0.864-release.apk",
+  "verCode": 872,
+  "verName": "APP版本：0.20.0 (Build 872)\n",
+  "apk": "LTCAssistant_v0.20.0.872-release.apk",
   "size": "檔案大小：7.77MB\n",
-  "changelog": "更新內容：\n1. 更新Server連結\n2. 全新的日期選擇器\n3. 優化記錄表初始化流程\n4. 自動反問不播放語音，避免截斷回答語音\n5. 調整預設語速 (5 -> 6)\n6. 問答系統新增開啟據點查詢功能"
+  "changelog": "更新內容：\n1. 修正記錄表清單不會自動刷新的錯誤\n2. 重構記錄表同步功能"
 }
