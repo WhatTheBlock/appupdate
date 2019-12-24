@@ -1,7 +1,7 @@
 {
-  "verCode": 872,
-  "verName": "APP版本：0.20.0 (Build 872)\n",
-  "apk": "LTCAssistant_v0.20.0.872-release.apk",
-  "size": "檔案大小：7.77MB\n",
-  "changelog": "更新內容：\n1. 修正記錄表清單不會自動刷新的錯誤\n2. 重構記錄表同步功能"
+  "verCode": 875,
+  "verName": "APP版本：0.20.0 (Build 875)\n",
+  "apk": "LTCAssistant_v0.20.0.875-release.apk",
+  "size": "檔案大小：7.21MB\n",
+  "changelog": "更新內容：\n1. 修正健康記錄表數值範圍設定錯誤\n2. 健康記錄表數值範圍新增合理性判斷\n3. 調整編譯參數，大幅降低APK大小"
 }
